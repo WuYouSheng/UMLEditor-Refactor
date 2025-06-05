@@ -1,2 +1,2 @@
-# UMLEditor-Refactor
+# UMLEditor
 UMLEditor-Refactor
